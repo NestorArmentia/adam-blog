@@ -1,3 +1,3 @@
 ---
-img vitoria.jpg # Add image post
+img: vitoria.jpg # Add image post (Optional)
 ---
